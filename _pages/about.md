@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my site - Dileep Pasumarthi"
+title: "Site in Building - Welcome - Dileep Pasumarthi"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
