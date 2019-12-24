@@ -2,7 +2,7 @@
 title: "Clustering labels through community detection on co-occurrence graphs."
 collection: publications
 permalink: /publication/mlads1
-excerpt: 'this is excerpt'
+excerpt: 'Items are often characterized with sets of labes; for example, articles in a database might be tagged with several keywords per article. Here we illustrate a simple approach to clustering items based on counting occurrences of such tags. The approach can be generalized to a variety of applications; for example, web pages can be compared based on which other pages link to them, or we can find edges between items appearing together in market baskets. We discussed ways in which we are using this approach to cluster related items and discover functional relationships form a variety of loosely structred data sources.'
 date: 06-09-2019
 venue: 'Machine Learning, AI & Data Science Conference - Microsoft'
 paperurl: 'https://link.springer.com/article/10.1007/s13042-014-0309-2'
